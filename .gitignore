@@ -6,6 +6,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.json
+JSONCompare_level0.cpp
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
