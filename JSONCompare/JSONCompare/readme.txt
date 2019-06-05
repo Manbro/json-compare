@@ -1,6 +1,8 @@
-- External library required: http://rapidjson.org/
-
-- The main function reads "json1.json" and "json2.json" files from current directory outputs results to "result.json".
+- Running instructions:
+		1. Add the reapidjson headers to your include path (See "Installation" in http://rapidjson.org/)
+		2. Copy and paste the "json1.json" and "json2.json" files to the running directory
+		3. Run the program
+		4. Review the output in the "result.json" file
 
 - Output format:
 		1. Base cases:
