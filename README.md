@@ -21,7 +21,7 @@ External libraries: **rapidjson**.
 
 1. If you have Visual Studio IDE installed:  Open the JSONCompare.sln solution file with Visual Studio, add rapidjson headers to your include path by going to: **Project -> Properties -> VCC++ Directories -> General -> Include Directories** and add the path to where you downloaded the "include/rapidjson" directory, screenshot:
 
-   ![1560264294926](https://ibb.co/bdYnGFV)
+   ![1560264294926](https://i.ibb.co/F7ctdX1/1560264294926.png)
 
    
 
@@ -131,4 +131,4 @@ The algorithm is recursive and runs in linear time. It produces an array of "dif
 
 ## Result Example: Screenshot
 
-![1560267322798](https://ibb.co/5KZ2xtp)
+![1560267322798](https://i.ibb.co/7khbN8M/1560267322798.png)
